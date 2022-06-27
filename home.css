@@ -1,0 +1,78 @@
+/*home css*/
+
+
+
+header{
+    font-family: folkloreitalic;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.menu-item{
+    text-align: right;
+}
+
+
+
+
+
+
+.img{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 10px 10px 5px gray;
+    
+}
+
+body{
+    
+    background-size: cover;
+    font-family:var(--bs-font-sans-serif);
+}
+
+header{
+    margin: 20px 0px;
+}
+
+
+
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+  #agent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  #agentinfo{
+      text-align: center;
+  }
+  #analytics{
+    text-align: center;
+}
+
+.btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-outline-primary {
+    background-color: #808080;
+}
